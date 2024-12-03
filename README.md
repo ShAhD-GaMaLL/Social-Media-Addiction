@@ -14,4 +14,4 @@
 - Users can earn achievements by completing specific tasks or meeting certain goals.
 - The system monitors user activities on platforms, such as login times and the duration of sessions.
 ## ER Model:
-![ER Model]("C:\Users\shahd\Downloads\SocialMediaAddiction.jpg")
+
