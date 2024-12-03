@@ -15,3 +15,7 @@
 - The system monitors user activities on platforms, such as login times and the duration of sessions.
 ## ER Model:
 ![Social Media Diagram](https://raw.githubusercontent.com/ShAhD-GaMaLL/Social-Media-Addiction/main/SocialMediaAddiction.jpg)
+## Relational Model:
+
+
+## SQL Queries:
