@@ -18,4 +18,4 @@
 ## Relational Model:
 
 
-## SQL Queries:
+## Queries:
